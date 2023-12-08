@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-x86_64-w64-mingw32-g++"
+	BuildStamp="20231208-1958-Experimental"
+	Name="unkown-hp"
+	Generator="ctest-3.27.9"
+	CompilerName="/usr/bin/x86_64-w64-mingw32-g++"
+	CompilerVersion="13.1.0"
+	OSName="Linux"
+	Hostname="unkown-hp"
+	OSRelease="6.6.4-zen1-1-zen"
+	OSVersion="#1 ZEN SMP PREEMPT_DYNAMIC Mon, 04 Dec 2023 00:28:58 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="69"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="16060"
+	TotalPhysicalMemory="7871"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1695.97"
+	>
+	<Testing>
+		<StartDateTime>Dec 08 22:00 EET</StartDateTime>
+		<StartTestTime>1702065635</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 08 22:00 EET</EndDateTime>
+		<EndTestTime>1702065635</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

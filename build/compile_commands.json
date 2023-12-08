@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/unkown/vscodium/dll_injector/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -g -o CMakeFiles/dll_inject.dir/main.cpp.o -c /home/unkown/vscodium/dll_injector/main.cpp",
+  "file": "/home/unkown/vscodium/dll_injector/main.cpp",
+  "output": "CMakeFiles/dll_inject.dir/main.cpp.o"
+}
+]
